@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated header banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Bhushan_Nanvare&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Engineer%20%7C%20AI%20Engineer&descAlignY=58&descSize=18&descColor=a78bfa&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Bhushan Nanvare&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Engineer%20%7C%20AI%20Engineer&descAlignY=58&descSize=18&descColor=a78bfa&animation=fadeIn" />
 
 <!-- Typing animation -->
 <a href="https://git.io/typing-svg">
@@ -49,6 +49,7 @@ const bhushan: Developer = {
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+
 
 ### Frontend
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
