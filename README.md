@@ -154,7 +154,7 @@ A real-time collaborative code editor supporting concurrent multi-user editing �
 |--------|-------------|------|-------|
 | 🎓 B.Tech — Computer Science & Engineering | Sanjivani University | 2024–2027 | CGPA: 7.5/10 |
 | 📜 Diploma — Computer Science Engineering | SND Polytechnic | 2020–2023 | 70.59% |
-| 📗 SSC (Secondary School Certificate) | Vidyamandir | 2020 | 84% |
+| 📗 SSC (Secondary School Certificate) | Higher and | 2020 | 83.40% |
 
 ---
 
