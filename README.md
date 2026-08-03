@@ -25,13 +25,12 @@
 
 ```typescript
 const bhushan: Developer = {
-  role:       ["Full Stack Engineer", "AI Engineer (in progress)"],
+  role:       ["Full Stack Engineer", "AI Engineer"],
   education:  "B.Tech CSE @ Sanjivani University (2024–2027)",
   experience: "Research Intern @ National Chung Cheng University, Taiwan",
-  focus:      ["RAG Pipelines", "LLM Apps", "Real-time Systems", "Vector DBs"],
+  focus:      ["RAG Pipelines", "LLM ", "Real-time Systems", "Vector DBs" ],
   building:   "AI-powered developer tools that actually solve real problems",
   open_to:    ["SDE Roles", "Full Stack Roles", "AI Engineering Roles"],
-  achievement:"🥉 3rd Place – HiTSpectra Internship Program, NCCU Taiwan",
   contact:    "bhushanofficial123@gmail.com",
 };
 ```
