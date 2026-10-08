@@ -86,19 +86,6 @@ const bhushan: Developer = {
 ---
 
 ## 🚀 Featured Projects
-
-### 🔬 [TrafficForge](https://github.com/Bhushan_Nanvare) — Automated Testing Platform
-> **TypeScript · Node.js · React · Playwright · PostgreSQL**
-
-An automated testing platform that converts plain-English instructions into Playwright test scripts with an **80% auto-recovery rate** for broken selectors when UI elements shift.
-
-- ⚡ Converts natural language to Playwright test scripts
-- 🔁 Auto-recovery system fixes broken UI selectors automatically
-- 📊 Real-time performance analytics engine with bottleneck detection
-- 🐛 Random interaction testing to surface edge-case bugs
-
----
-
 ### 🧠 [CodeMind-RAG](https://github.com/Bhushan_Nanvare) — AI Code Search Engine
 > **Python · FastAPI · TypeScript · Next.js 14 · Qdrant · LangChain · HuggingFace**
 
