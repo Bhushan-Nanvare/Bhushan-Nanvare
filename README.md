@@ -28,7 +28,7 @@ const bhushan: Developer = {
   role:       ["Full Stack Engineer", "AI Engineer"],
   education:  "B.Tech CSE @ Sanjivani University (2024–2027)",
   experience: "Research Intern @ National Chung Cheng University, Taiwan",
-  focus:      ["RAG Pipelines", "LLM ", "Real-time Systems", "Vector DBs" ],
+  focus:      ["RAG Pipelines", "LLM ", "Real-time Systems", "Vector DBs" , "Context Engineering" , "Promt Engineering" , "Evaluation"],
   building:   "AI-powered developer tools that actually solve real problems",
   open_to:    ["SDE Roles", "Full Stack Roles", "AI Engineering Roles"],
   contact:    "bhushanofficial123@gmail.com",
