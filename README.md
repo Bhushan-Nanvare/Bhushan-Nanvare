@@ -110,11 +110,23 @@ A real-time collaborative code editor supporting concurrent multi-user editing �
 
 ---
 
+
+
 ## 💼 Experience
 
+### 💻 Full Stack Developer Intern
+**Triveni Global Consulting Pvt. Ltd.** ` Jun 2026 – Present · Remote `
+
+- Shipped end-to-end features across the UI, application, and data layers using **React**, **Tailwind CSS**, **Node.js**, and **Express**
+- Built secure REST APIs covering authentication, session handling, and input validation with **JWT-based access control**
+- Developed interactive dashboards using JavaScript charting libraries, enabling real-time operational data exploration
+- Leveraged AI-assisted tools (Claude, GitHub Copilot) for rapid boilerplate generation, test scaffolding, and API documentation
+- **Tech Stack:** React · Tailwind CSS · Node.js · Express · PostgreSQL · JWT · Git · Postman
+
+---
+
 ### 🔬 Research Intern — Skin Cancer Detection
-**National Chung Cheng University, Taiwan · HiTSpectra Internship Program**
-`Apr 2025 – Sep 2025 · Remote`
+**National Chung Cheng University, Taiwan · HiTSpectra Internship Program** ` Apr 2025 – Sep 2025 · Remote `
 
 - Analyzed hyperspectral imaging (HSI) datasets for multi-class skin cancer detection (ALM, SSM, NM, MIS)
 - Applied PCA for dimensionality reduction and spectral band analysis
@@ -122,7 +134,6 @@ A real-time collaborative code editor supporting concurrent multi-user editing �
 - Implemented **Grad-CAM heatmaps** for model interpretability in medical imaging
 - 🥉 **Placed 3rd** in the HiTSpectra Internship Program
 
----
 
 ## 📊 LeetCode Stats
 
@@ -134,32 +145,7 @@ A real-time collaborative code editor supporting concurrent multi-user editing �
 
 ---
 
-## 🎓 Education
 
-| Degree | Institution | Year | Score |
-|--------|-------------|------|-------|
-| 🎓 B.Tech — Computer Science & Engineering | Sanjivani University | 2024–2027 | CGPA: 7.5/10 |
-| 📜 Diploma — Computer Science Engineering | SND Polytechnic | 2020–2023 | 70.59% |
-| 📗 SSC (Secondary School Certificate) | Higher and | 2020 | 83.40% |
-
----
-
-## 🗺️ Where I'm Headed
-
-```
-Current Focus:
-  ├── 🏗️  Deepening Full Stack expertise (React, Node.js, TypeScript)
-  ├── 🤖  AI Engineering: RAG, LLM agents, vector databases, embeddings
-  ├── 📐  System design & scalable architecture patterns
-  └── 💡  Building AI-powered developer tooling
-
-Open To:
-  ├── SDE (Full Stack)
-  ├── AI / ML Engineering
-  └── Backend Engineering
-```
-
----
 
 <div align="center">
 
